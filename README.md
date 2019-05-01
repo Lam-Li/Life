@@ -1,2 +1,2 @@
-# Life
-life is Technology;
+# Daily
+Life is Technology;
